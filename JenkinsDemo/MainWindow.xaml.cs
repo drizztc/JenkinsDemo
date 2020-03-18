@@ -27,7 +27,7 @@ namespace JenkinsDemo
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-
+            this.WindowState = WindowState.Maximized;
         }
     }
 }
